@@ -1,35 +1,4 @@
-<!--
-────────────────────────────────────────────────────────────────────────
-BEFORE YOU COMMIT THIS — read the CHECK list.
-
-This file goes in a repo named EXACTLY: bcdproductionllc
-(github.com/bcdproductionllc/bcdproductionllc), saved as README.md.
-GitHub then renders it on your profile page.
-
-CHECK — I wrote these from what I could verify on your App Store
-listings, your privacy policy, and this site. Anything marked
-[CONFIRM] below is my inference, not something you told me. Verify
-or delete each one before committing:
-
-  [CONFIRM] "Swift Charts" — you have charts; I don't know if they're
-            Swift Charts or hand-drawn. Adjust or remove.
-  [CONFIRM] "Vision / VisionKit" — Swapfox scans price tags; I don't
-            know which framework does the OCR. Adjust or remove.
-  [CONFIRM] "BackgroundTasks" — you have background refresh; I don't
-            know if it's BGTaskScheduler or another mechanism.
-  [CONFIRM] "TwinCAT" — from your Beltways work. Add or remove the
-            other PLC platforms you actually use.
-  [CONFIRM] The "What I'm interested in" section — rewrite in your
-            own words. Hiring managers can smell a template.
-
-Also: this is your LLC account. If you're job hunting as an
-individual, a personal GitHub account with your own name reads
-better to recruiters — you can keep the LLC account for the apps
-and cross-link them. Your call.
-────────────────────────────────────────────────────────────────────────
--->
-
-# Dmitriy — iOS Engineer
+# Dmitriy — iOS Lead Engineer
 
 I build native iOS apps that are fast, private, and finished. Four of them are live on the App Store, all written in Swift and SwiftUI, all shipped solo — design, code, in-app purchases, review submission, and the updates after launch.
 
