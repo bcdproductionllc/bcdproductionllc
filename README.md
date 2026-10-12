@@ -1,4 +1,4 @@
-# Dmitriy — iOS Lead Engineer
+# D — iOS Lead Engineer
 
 I build native iOS apps that are fast, private, and finished. Four of them are live on the App Store, all written in Swift and SwiftUI, all shipped solo — design, code, in-app purchases, review submission, and the updates after launch.
 
